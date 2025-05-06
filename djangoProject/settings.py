@@ -34,7 +34,6 @@ ALLOWED_HOSTS = ['178.156.163.131', 'wolfcoine.com', 'www.wolfcoine.com']
 CSRF_TRUSTED_ORIGINS = [
     "https://wolfcoine.com",
     "https://www.wolfcoine.com"
-    "https://wolfcoine.com:8000"
 ]
 
 
